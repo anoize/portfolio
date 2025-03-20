@@ -68,7 +68,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "My name is Kananun Nuanta. Everybody call me Air.My birthday is on May 16th.My grade is 2.45",
+    bio: "My name is Kananun Nuanta. Everybody call me Air.My birthday is on May 16th.My grade is 2.45. I very love German shepherd",
     skills:
         {
             proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'php'],
